@@ -1,0 +1,193 @@
+#container{
+    width: 390px;
+    height: 880px;
+    background-color: white;
+    border: 2px solid black;
+    margin: auto;
+}
+.bar{
+    width: 390px;
+    height: 70px;
+    /* background-color: blue; */
+}
+.bar-left{
+    float: left;
+    font-size: 22px;
+    position: relative;
+    top: 13px;
+    left: 18px;
+}
+.bar-right{
+    float: right;
+    font-size: 22px;
+    position: relative;
+    top: 13px;
+    right: 20px;
+}
+.menu{
+    width: 390px;
+    height: 100px;
+}
+.menu-left{
+    float: left;
+}
+.menu-left,img{
+    position: relative;
+    left: 10px;
+}
+.text-logo{
+    font-size: 35px;
+    position: relative;
+    left: 10px;
+    bottom: 20px;
+}
+.menu-right{
+    float: right;
+}.fa.fa-bell{
+    font-size: 35px;
+    position: relative;
+    top: 20px;
+    right: 25px;
+}
+.box-search{
+    width: 340px;
+    height: 50px;
+    background-color: rgb(215, 215, 215);
+    border-radius: 30px;
+    position: relative;
+    left: 25px;
+}
+.fa.fa-search{
+    font-size: 28px;
+    position: relative;
+    left: 15px;
+    top: 11px;
+}
+.search{
+    font-size: 23px;
+    color: rgb(83, 83, 83);
+    position: relative;
+    top: 11px;
+    left: 30px;
+}
+.image{
+    width: 390px;
+    height: 140px;
+}
+.box-left{
+    float: left;
+    width: 200px;
+    height: 110px;
+    position: relative;
+    top: 30px;
+    left: 16px;
+}
+img{
+    border-radius: 10px;
+}
+.box-right{
+    float: right;
+    width: 130px;
+    height: 110px;
+    position: relative;
+    top: 26px;
+    right: 20px;
+    border-right: none;
+}
+.menu-text{
+    width: 390px;
+    height: 70px;
+    font-size: 22px;
+    display: flex;
+    gap: 24px;
+    position: relative;
+    left: 27px;
+    top: 25px;
+}
+.active{
+    width: 54px;
+    height: 25px;
+    border-bottom: 5px solid rgba(59, 115, 200, 1);
+}
+.pro-1{
+    width: 390px;
+    height: 130px;
+}
+.pro-2{
+    width: 390px;
+    height: 130px;
+}
+.pro-3{
+    width: 390px;
+    height: 130px;
+}
+.b-left{
+    float: left;
+    width: 130px;
+    height: 110px;
+}
+.t-rigth{
+    float: right;
+    font-size: 20px;
+    position: relative;
+    right: 20px;
+    top: 10px;
+}
+.itc{
+    position: relative;
+    top: 18px;
+}
+.view1{
+    position: relative;
+    top: 33px;
+    left: 130px;
+}
+.view2{
+    position: relative;
+    top: 33px;
+    left: 130px;
+}
+.view3{
+    position: relative;
+    top: 33px;
+    left: 130px;
+}
+.title-menu{
+    width: 390px;
+    height: 60px;
+    display: flex;
+    gap: 45px;
+    font-size: 35px;
+    background-color: rgba(59, 115, 200, 1);
+}
+.fa.fa-home{
+    position: relative;
+    top: 12px;
+}
+.home{
+    width: 40px;
+    height: 50px;
+    border-bottom: 5px solid black;
+    position: relative;
+    left: 18px;
+}
+.fa.fa-book{
+    position: relative;
+    top: 12px;
+    left: 10px;
+}
+.fa.fa-users{
+    position: relative;
+    top: 12px;
+    left: 10px;
+}
+.fa.fa-commenting{
+    position: relative;
+    top: 12px;
+    left: 10px;
+}
+.fa.fa-user-circle{
+    position: relative;
+    top: 12px;
+    left: 10px;
+}
